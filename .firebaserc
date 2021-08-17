@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cb-portfolio-sp": {
+      "hosting": {
+        "PortfolioSP": [
+          "cb-portfolio-sp"
+        ]
+      }
+    }
+  }
+}
